@@ -140,8 +140,5 @@ public class CompanyDAO {
 		
 		return company;
 	}
-	
 
-	
-	
 }
